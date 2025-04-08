@@ -7,4 +7,4 @@
 
 ![image](https://github.com/user-attachments/assets/fd7890de-a16b-4799-9c33-3b4ede7399b2)
 
-Рис. 2 – Перегляд вмісту файлу `config` у редакторі `nano`
+Рис. 2 – Перегляд вмісту файлу config у редакторі nano
